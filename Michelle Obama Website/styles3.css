@@ -1,0 +1,260 @@
+* {
+    background-color: rgb(205, 226, 255);
+}
+h1 {
+    color: rgb(18, 3, 118);
+    background-color: rgb(175, 208, 252);
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    box-sizing: border-box;
+    border: 30px solid rgb(161, 202, 255);
+}
+
+.OF {
+    display: inline-block;
+    margin: 10px;
+    position: absolute;
+    top: 25.5px;
+    left: 5px;
+}
+
+.MS {
+    display: inline-block;
+    margin: 10px;
+    position: absolute;
+    top: 25.5px;
+    left: 1216px;
+}
+
+ /* Nav Bar Stuff */
+ .topnav {
+    background-color: rgb(112, 183, 237);
+    overflow: hidden;
+  }
+
+.topnav a {
+    float: left;
+    color: #000b3b;
+    text-align: center;
+    padding: 14px 145px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(112, 183, 237)
+  }
+
+.topnav a:hover {
+    background-color: #0d0b86;
+    color: rgb(255, 255, 255);
+  }
+ /* Michelle Info */
+.Mp1 {
+    display: inline-block;
+    margin: 10px;
+    position: absolute;
+    top: 255px;
+    left: 35px;
+
+  }
+.M1 {
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 15px;
+ position: absolute;
+ right: 200px;
+ left: 45px;
+ text-align: left;
+ top: 570px;
+}
+.M2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  position: absolute;
+  right: 200px;
+  left: 45px;
+  text-align: left;
+  top: 590px;
+ }
+ .M3 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  position: absolute;
+  right: 200px;
+  left: 45px;
+  text-align: left;
+  top: 610px;
+ }
+ .M4 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  position: absolute;
+  right: 200px;
+  left: 45px;
+  text-align: left;
+  top: 630px;
+ }
+ .M5 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  position: absolute;
+  right: 200px;
+  left: 45px;
+  text-align: left;
+  top: 650px;
+ }
+ 
+ /* Barack Info */
+.Bp1 {
+  display: inline-block;
+  margin: 10px;
+  position: absolute;
+  top: 255px;
+  left: 385px;
+}
+
+.B1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  position: absolute;
+  right: 200px;
+  left: 395px;
+  text-align: left;
+  top: 570px;
+ }
+ 
+ .B2 {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 15px;
+   position: absolute;
+   right: 200px;
+   left: 395px;
+   text-align: left;
+   top: 590px;
+  }
+ 
+  .B3 {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 15px;
+   position: absolute;
+   right: 200px;
+   left: 395px;
+   text-align: left;
+   top: 610px;
+  }
+ 
+  .B4 {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 15px;
+   position: absolute;
+   right: 200px;
+   left: 395px;
+   text-align: left;
+   top: 630px;
+  }
+ 
+  .B5 {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 15px;
+   position: absolute;
+   right: 200px;
+   left: 395px;
+   text-align: left;
+   top: 650px;
+  }
+
+   /* Malia Info */
+.Mp2 {
+  display: inline-block;
+  margin: 10px;
+  position: absolute;
+  top: 255px;
+  left: 735px;
+}
+.MB1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  position: absolute;
+  right: 200px;
+  left: 745px;
+  text-align: left;
+  top: 570px;
+ }
+ .MB2 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  position: absolute;
+  left: 745px;
+  text-align: left;
+  top: 590px;
+  }
+  .MB3 {
+   font-family: 'Times New Roman', Times, serif;
+   font-size: 15px;
+   position: absolute;
+   left: 745px;
+   text-align: left;
+   top: 610px;
+  }
+ .MB4 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    position: absolute;
+    left: 745px;
+    text-align: left;
+    top: 630px;
+   }
+  .MB5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    position: absolute;
+    right: 200px;
+    left: 745px;
+    text-align: left;
+    top: 650px;
+   }
+   
+  /* Sasha Info */
+   .Sp1 {
+    display: inline-block;
+    margin: 10px;
+    position: absolute;
+    top: 255px;
+    left: 1085px;
+  }
+  
+  .S1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    position: absolute;
+    right: 200px;
+    left: 1090px;
+    text-align: left;
+    top: 570px;
+   }
+   
+   .S2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    position: absolute;
+    left: 1090px;
+    text-align: left;
+    top: 590px;
+    }
+   
+    .S3 {
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 15px;
+     position: absolute;
+     left: 1090px;
+     text-align: left;
+     top: 610px;
+    }
+   .S4 {
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 15px;
+      position: absolute;
+      left: 1090px;
+      text-align: left;
+      top: 630px;
+     }
+   

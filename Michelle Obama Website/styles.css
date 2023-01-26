@@ -1,0 +1,109 @@
+* {
+    background-color: rgb(205, 226, 255);
+}
+h1 {
+    color: rgb(18, 3, 118);
+    background-color: rgb(175, 208, 252);
+    font-size: 50px;
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    box-sizing: border-box;
+    border: 30px solid rgb(161, 202, 255);
+}
+
+.OF {
+    display: inline-block;
+    margin: 10px;
+    position: absolute;
+    top: 25.5px;
+    left: 5px;
+}
+
+.MS {
+    display: inline-block;
+    margin: 10px;
+    position: absolute;
+    top: 25.5px;
+    left: 1216px;
+}
+ /* Nav Bar Stuff */
+.topnav {
+    background-color: rgb(112, 183, 237);
+    overflow: hidden;
+  }
+
+.topnav a {
+    float: left;
+    color: #000b3b;
+    text-align: center;
+    padding: 14px 145px;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: rgb(112, 183, 237)
+  }
+
+.topnav a:hover {
+    background-color: #0d0b86;
+    color: rgb(255, 255, 255);
+  }
+
+.home {
+    color: black;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    left: 640px;
+    right: 180px;
+    text-align: center;
+    top: 280px;
+    }
+ /* images Stuff */
+    section {
+      margin: 10px;
+      border: 3px solid rgb(49, 49, 108);
+      width: 150px;
+      height: 150px;
+      display: inline-block;
+      position: relative;
+      top: 20px;
+  }
+
+  .fashion1 {
+      background-image: url("https://cfda.imgix.net/2019/02/michelle-obama.jpg");
+      background-size: 200px 200px;
+  }
+  .fashion2 {
+      background-image: url("https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2018_46/1385359/michelle-obama-elle-today-inline5-181112.jpg");
+      background-size: 200px 200px;
+  }
+  .fashion3 {
+      background-image: url("https://media1.popsugar-assets.com/files/thumbor/eee7EkpDJRKXjMBLiRVw1Mkj17s/1650x684:3576x2610/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2019/11/18/726/n/1922564/12c6a0ef5dd2c647543c61.00692367_/i/michelle-obama-sparkling-yellow-schiaparelli-gown.jpg");
+      background-size: 200px 200px;
+  }
+  .fashion4 {
+      background-image: url("https://people.com/thmb/VUxggkywyJe_zrhPKczPLvnXK5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(736x0:738x2)/michelle-obama-2016-2000-d5b1b906e9744b3d9e649143f93117a1.jpg");
+      background-size: 200px 200px;
+  }
+  .fashion5 {
+      background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/episode-0984-pictured-michelle-obama-arrives-to-the-show-on-news-photo-1576265351.jpg");
+      background-size: 200px 200px;
+  }
+  .fashion6 {
+      background-image: url("https://people.com/thmb/FBbxYJJCxBeij89Myrsv5cQCN08=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(216x0:218x2)/michelle-obama-1-435-2-167cb18baeae47b0bbd56b752407ab55.jpg");
+      background-size: 200px 200px;
+  }
+  .fashion7 {
+      background-size: 200px 200px;
+      background-image: url("https://people.com/thmb/CJXpPxydpQxgu5WHK-28NBk8Vx0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(399x0:401x2)/michelle-obama-101-62eb0142a6ce48c78040ccb7a955929a.jpg");
+  
+  }
+  .fashion8 {
+      background-image: url("http://cache.boston.com/bonzai-fba/Third_Party_Photo/2012/08/10/34-michelle-obama-fashion-pictures__1344617125_6096.jpg");
+      background-size: 200px 200px;
+  }
+  .fashion9 {
+      background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/hbz-michelle-obama-0227-gettyimages-1128193454.jpg");
+      background-size: 200px 200px;
+  }
+
